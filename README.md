@@ -44,10 +44,10 @@ Every problem folder (e.g., `bpp/`, `tsp/`, `cvrp/`, `smtwtp/`) is organized in 
 ##  Training
 
 To train the model on a selected problem instance, simply run:
-
+```bash
 python run.py
 
-
+```
 
 ## 🔗 Acknowledgement
 
