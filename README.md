@@ -1,5 +1,7 @@
 # GTG-ACO : Graph Transformer Guided Ant Colony Optimization for Learning Heuristics and Pheromone Dynamics for Combinatorial Optimization
 
+This repository contains the implementation of GTG-ACO, a deep learning framework combining Graph Transformer models with Ant Colony Optimization (ACO) for solving combinatorial optimization problems.
+
 ## 🔗 Acknowledgement
 
 This codebase builds upon the DeepACO framework. We gratefully acknowledge their contributions and recommend citing their work if you use this repository:
