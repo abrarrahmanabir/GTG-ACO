@@ -2,6 +2,11 @@
 
 This repository contains the implementation of GTG-ACO, a deep learning framework combining Graph Transformer models with Ant Colony Optimization (ACO) for solving combinatorial optimization problems.
 
+## Installation
+`git clone https://github.com/abrarrahmanabir/GTG-ACO.git`
+cd GTG-ACO
+
+
 ## 🔗 Acknowledgement
 
 This codebase builds upon the DeepACO framework. We gratefully acknowledge their contributions and recommend citing their work if you use this repository:
