@@ -20,6 +20,14 @@ This repository contains the implementation of GTG-ACO, a deep learning framewor
 `cd GTG-ACO`
 
 
+### 📌 Available Problems
+
+- **Traveling Salesman Problem (TSP):** see [`tsp/`]
+- **Capacitated Vehicle Routing Problem (CVRP):** see [`cvrp/`]
+- **Single Machine Total Weighted Tardiness Problem (SMTWTP):** see [`smtwtp/`]
+- **Bin Packing Problem (BPP):** see [`bpp/`]
+
+
 ## 🔗 Acknowledgement
 
 This codebase builds upon the DeepACO framework. We gratefully acknowledge their contributions and recommend citing their work if you use this repository:
