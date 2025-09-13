@@ -29,6 +29,26 @@ cd GTG-ACO
 - **Bin Packing Problem (BPP):** see [`bpp/`]
 
 
+## 📂 Repository Structure
+
+Every problem folder (e.g., `bpp/`, `tsp/`, `cvrp/`, `smtwtp/`) is organized in the same way:
+
+│── aco.py     # Core Ant Colony Optimization logic
+│── model.py   # GTG-ACO model architecture
+│── net.py    
+│── run.py     # Main script for model training
+│── utils.py   # Utilities for generating random problem instances
+
+---
+
+##  Training
+
+To train the model on a selected problem instance, simply run:
+
+python run.py
+
+
+
 ## 🔗 Acknowledgement
 
 This codebase builds upon the DeepACO framework. We gratefully acknowledge their contributions and recommend citing their work if you use this repository:
