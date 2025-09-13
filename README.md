@@ -2,9 +2,22 @@
 
 This repository contains the implementation of GTG-ACO, a deep learning framework combining Graph Transformer models with Ant Colony Optimization (ACO) for solving combinatorial optimization problems.
 
+### Dependencies
+
+- Python 3.11.9
+- CUDA 12.9
+- PyTorch 2.5.1
+- [PyTorch Scatter](https://github.com/rusty1s/pytorch_scatter) 2.0.7
+- [PyTorch Sparse](https://github.com/rusty1s/pytorch_sparse) 0.6.9
+- [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric) 2.6.1
+- d2l
+- [networkx](https://networkx.org/) 2.8.4
+- [numpy](https://numpy.org/) 1.23.3
+- [numba](https://numba.pydata.org/) 0.56.4
+
 ## Installation
-`git clone https://github.com/abrarrahmanabir/GTG-ACO.git
-cd GTG-ACO`
+`git clone https://github.com/abrarrahmanabir/GTG-ACO.git`
+`cd GTG-ACO`
 
 
 ## 🔗 Acknowledgement
