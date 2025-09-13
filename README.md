@@ -33,11 +33,11 @@ cd GTG-ACO
 
 Every problem folder (e.g., `bpp/`, `tsp/`, `cvrp/`, `smtwtp/`) is organized in the same way:
 
-│── aco.py     # Core Ant Colony Optimization logic
-│── model.py   # GTG-ACO model architecture
-│── net.py    
-│── run.py     # Main script for model training
-│── utils.py   # Utilities for generating random problem instances
+\│── aco.py     # Core Ant Colony Optimization logic  
+\│── model.py   # GTG-ACO model architecture  
+\│── net.py     
+\│── run.py     # Main script for model training  
+\│── utils.py   # Utilities for generating random problem instances  
 
 ---
 
