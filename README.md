@@ -16,11 +16,12 @@ This repository contains the implementation of GTG-ACO, a deep learning framewor
 - [numba](https://numba.pydata.org/) 0.56.4
 
 ## Installation
-`git clone https://github.com/abrarrahmanabir/GTG-ACO.git`
-`cd GTG-ACO`
+```bash
+git clone https://github.com/abrarrahmanabir/GTG-ACO.git
+cd GTG-ACO
 
 
-### 📌 Available Problems
+### 📌 Available Combinatorial Optimization Problems
 
 - **Traveling Salesman Problem (TSP):** see [`tsp/`]
 - **Capacitated Vehicle Routing Problem (CVRP):** see [`cvrp/`]
