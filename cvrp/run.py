@@ -152,7 +152,7 @@ def train(mode, n_node, k_sparse, n_ants, steps_per_epoch, epochs, flag, dataset
 
 
 
-epochs , steps_per_epoch = 1 , 2
+epochs , steps_per_epoch = 50 , 256
 n_ants= 20
 T = 30
 
